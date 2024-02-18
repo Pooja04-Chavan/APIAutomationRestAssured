@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Admin/IdeaProjects/APIAutomationProject5X/src/test/java/com/thetestingacademy/tests/crud/GET">
+        <classes>
+            <class name="com.thetestingacademy.tests.crud.GET.GETRequestNonBDDTestNG">
+                <methods>
+                    <include name="testAllBookingNegative1"/>
+                    <include name="testAllBookingNegative2"/>
+                    <include name="testAllBookingPositive"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

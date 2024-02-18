@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Admin/IdeaProjects/APIAutomationProject5X/src/test/java/com/thetestingacademy">
+        <classes>
+            <class name="com.thetestingacademy.tests.crud.DELETE.NonBDDDELETE">
+                <methods>
+                    <include name="testDELETEREQUEST"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.tests.crud.GET.GETRequestNonBDDTestNG">
+                <methods>
+                    <include name="testAllBookingNegative1"/>
+                    <include name="testAllBookingNegative2"/>
+                    <include name="testAllBookingPositive"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.tests.crud.PATCH.NonBDDPATCH">
+                <methods>
+                    <include name="testPutREQUEST"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.tests.crud.POST.BDDStylePOST">
+                <methods>
+                    <include name="testBDDStylePOSTPositive"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.tests.crud.POST.NonBDDStylePOST">
+                <methods>
+                    <include name="testNonBDDStylePOSTPositive"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.tests.crud.PUT.NonBddPUT">
+                <methods>
+                    <include name="testPutREQUEST"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
