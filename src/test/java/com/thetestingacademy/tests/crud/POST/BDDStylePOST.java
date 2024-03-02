@@ -24,8 +24,11 @@ public class BDDStylePOST {
         RestAssured
                 .given()
                 .baseUri("https://restful-booker.herokuapp.com")
-                .basePath("/auth").contentType(ContentType.JSON).log().all()
-                .body(payload).when().post().then().log().all().statusCode(200);
+                .basePath("/auth")
+                .contentType(ContentType.JSON).log().all()
+                .body(payload)
+                .when().post()
+                .then().log().all().statusCode(200);
 
 
     }

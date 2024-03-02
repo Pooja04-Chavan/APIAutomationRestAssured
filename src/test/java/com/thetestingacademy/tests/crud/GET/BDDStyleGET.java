@@ -57,7 +57,7 @@ public class BDDStyleGET {
                 .basePath("/IN/560037")
                 .when().log().all()
                 .get()
-                .then().log().all().statusCode(201);
+                .then().log().all().statusCode(200);
 
 
 
