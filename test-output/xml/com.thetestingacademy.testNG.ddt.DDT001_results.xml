@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationProject5X"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.011">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testLoginData"
+                time="0.000"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.005"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.000"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.000"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+            <testcase
+                name="testLoginData"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.ddt.DDT001">
+            </testcase>
+</testsuite>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Admin/IdeaProjects/APIAutomationProject5X/src/test/java/com/thetestingacademy/testNG/parallel"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.019">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethod1"
+                time="0.004"
+                classname="com.thetestingacademy.testNG.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethod3"
+                time="0.005"
+                classname="com.thetestingacademy.testNG.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethod6"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethod5"
+                time="0.002"
+                classname="com.thetestingacademy.testNG.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethod2"
+                time="0.004"
+                classname="com.thetestingacademy.testNG.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethod4"
+                time="0.003"
+                classname="com.thetestingacademy.testNG.parallel.MainClass">
+            </testcase>
+</testsuite>

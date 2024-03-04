@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationProject5X"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.002">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPUTReq2"
+                time="0.000"
+                classname="com.thetestingacademy.testNG.testNGExample.TestNG003">
+            </testcase>
+            <testcase
+                name="testPUTReq3"
+                time="0.000"
+                classname="com.thetestingacademy.testNG.testNGExample.TestNG003">
+            </testcase>
+            <testcase
+                name="testPUTReq"
+                time="0.002"
+                classname="com.thetestingacademy.testNG.testNGExample.TestNG003">
+            </testcase>
+</testsuite>

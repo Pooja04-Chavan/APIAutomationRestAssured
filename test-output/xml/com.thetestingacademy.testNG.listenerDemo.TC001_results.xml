@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Admin/IdeaProjects/APIAutomationProject5X/src/test/java/com/thetestingacademy/testNG/listenerDemo"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.020">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test2"
+                time="0.001"
+                classname="com.thetestingacademy.testNG.listenerDemo.TC001">
+            </testcase>
+            <testcase
+                name="test1"
+                time="0.019"
+                classname="com.thetestingacademy.testNG.listenerDemo.TC001">
+            </testcase>
+</testsuite>

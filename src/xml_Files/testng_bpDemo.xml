@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+
+          name="C:/Users/Admin/IdeaProjects/APIAutomationProject5X/src/test/java/com/thetestingacademy/bpDemo">
+        <classes> 
+        <class name="com.thetestingacademy.bpDemo.BuilderPatternDesignPatternJava"></class>
+            <class name="com.thetestingacademy.bpDemo.NoDesignPattern"></class>
+            <class name="com.thetestingacademy.bpDemo.HelloWorld"></class>
+        </classes>
+
+        
+    </test>
+</suite>

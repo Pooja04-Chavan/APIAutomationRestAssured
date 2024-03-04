@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationProject5X"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.074">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testVwoLogindata"
+                time="1.319"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.796"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="3.308"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.518"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.717"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.475"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.968"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.471"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.579"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+            <testcase
+                name="testVwoLogindata"
+                time="0.923"
+                classname="com.thetestingacademy.task_25Feb24.Task001">
+            </testcase>
+</testsuite>
